@@ -2,6 +2,10 @@
 
 1. Клонировать репозиторий в домашнюю директорию текущего пользователя
 
+```bash
+git clone https://github.com/KristinaVydrenkova/os-homework_2-cloud_photo.git
+```
+
 2. Выполнить в bash команду для установки необходимых python библиотек. 
 
 ```bash
