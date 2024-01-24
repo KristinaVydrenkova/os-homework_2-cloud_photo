@@ -9,7 +9,7 @@ git clone https://github.com/KristinaVydrenkova/os-homework_2-cloud_photo.git
 2. Выполнить в bash команду для установки необходимых python библиотек. 
 
 ```bash
-pip3 install -r cloudphoto/requirements.txt 
+pip3 install -r os-homework_2-cloud_photo/requirements.txt 
 ``` 
 
 3. В файл ~/.bashrc добавить алиас для запуска программы 
