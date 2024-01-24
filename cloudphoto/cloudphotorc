@@ -1,0 +1,6 @@
+[DEFAULT]
+bucket = INPUT_BUCKET_NAME
+aws_access_key_id = INPUT_AWS_ACCESS_KEY_ID
+aws_secret_access_key = INPUT_AWS_SECRET_ACCESS_KEY
+region = ru-central1
+endpoint_url = https://storage.yandexcloud.net
